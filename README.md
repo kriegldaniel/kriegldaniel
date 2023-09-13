@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi there, I'm Daniel 👋
+
+## 🚀 About Me
+I'm a passionate Web Developer specializing in Angular, NestJS, and Ktor. 
+I love diving into new technologies and exploring how to solve problems in unique ways.
+
+## 🛠️ Skills
+
+### Languages
+- TypeScript
+- Kotlin
+- Python
+
+### Frameworks
+- Angular
+- NestJS
+- Ktor
+
+## 🌱 I'm currently learning
+I'm getting my feet wet with functional programming. 
+While it's a new paradigm for me, I'm eager to explore its capabilities and how it can improve my coding skills.
 
 <!--
-**kriegldaniel/kriegldaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Projects
+- **Project 1**: [Repository Link](#)
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+Feel free to reach out to me on [LinkedIn](#), [Twitter](#), or via [Email](#).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💼 Where I am currently working
+I'm currently working at [Company Name](#), where I am [your role].
+
+## 📜 Blog Posts
+- [Blog Post 1](#)
+- [Blog Post 2](#)
+
+## ⚡ Fun Fact
+I love [insert fun fact about yourself].
 -->
+
+---
+
+⭐️ From [kriegldaniel](https://github.com/kriegldaniel)
+
